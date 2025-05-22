@@ -1,6 +1,6 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Akash%20Paila%20👨‍💻&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 
-<h1 align="center">Hi 👋, I'm Akash Paila</h1>
+<h1 align="center">Hi 👋, I'm Akash Paila !!</h1>
 <h3 align="center">A passionate AI/ML Engineer and Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashpaila&label=Profile%20views&color=0e75b6&style=flat" alt="akashpaila" /> </p>
