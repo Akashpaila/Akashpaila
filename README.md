@@ -38,6 +38,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akashpaila&show_icons=true&locale=en" alt="akashpaila" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashpaila&" alt="akashpaila" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Akashpaila&theme=onedark-duo&hide_longest_streak=true)](https://git.io/streak-stats)
 <img src="https://i.postimg.cc/3xbVCHF9/My-logo.jpg" alt="my logo" width="500" height="200"/> </a>
 
