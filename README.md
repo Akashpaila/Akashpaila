@@ -9,10 +9,12 @@
 
 - 🌱 I’m currently learning **Ethical Hacking, Cloud Computing and AWS**
 
+- 🏁 My Personal Portfolio [https://akashpaila.github.io/portfolio/]
+
 - 👨‍💻 All of my projects are available at [https://github.com/Akashpaila](https://github.com/Akashpaila)
 
 - 💬 Ask me about **OpenCV, ML and Python**
-
+   
 - 📫 How to reach me **akashpyla@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1XCav2lrVpfpSuYuz0_cDtXgewMO8rmU0/view?usp=sharing](https://drive.google.com/file/d/1XCav2lrVpfpSuYuz0_cDtXgewMO8rmU0/view?usp=sharing)
