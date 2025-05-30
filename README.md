@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on **Mental Health app with Wearable Integration as a part of my startup**
 
 - 🌱 I’m currently learning **Ethical Hacking, Cloud Computing and AWS**
-
+ 
 - 🏁 My Personal Portfolio [https://akashpaila.github.io/portfolio/]
 
 - 👨‍💻 All of my projects are available at [https://github.com/Akashpaila](https://github.com/Akashpaila)
