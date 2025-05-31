@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashpaila&label=Profile%20views&color=0e75b6&style=flat" alt="akashpaila" /> </p>
 
-- 🔭 I’m currently working on **Mental Health app with Wearable Integration as a part of my startup**
+- 🔭 I’m currently working on **Mental Health app with Wearable Integration as a part of my startup**  
 
 - 🌱 I’m currently learning **Ethical Hacking, Cloud Computing and AWS**
  
