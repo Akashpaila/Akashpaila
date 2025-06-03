@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Akash Paila !!</h1>
 <h3 align="center">A passionate AI/ML Engineer and Web Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akashpaila&label=Profile%20views&color=0e75b6&style=flat" alt="akashpaila" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akashpaila&label=Profile%20views&color=0e75b6&style=flat" alt="akashpaila" /> </p> 
 
 - 🔭 I’m currently working on **Mental Health app with Wearable Integration as a part of my startup**  
 
