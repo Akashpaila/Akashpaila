@@ -17,7 +17,6 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1XCav2lrVpfpSuYuz0_cDtXgewMO8rmU0/view?usp=sharing](https://drive.google.com/file/d/1XCav2lrVpfpSuYuz0_cDtXgewMO8rmU0/view?usp=sharing)
 
-- ⚡ Fun fact **I am crazy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
